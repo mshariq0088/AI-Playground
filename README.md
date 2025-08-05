@@ -3,6 +3,7 @@ An iOS AI Chat UI powered by Google's Gemini 2.5 Flash model, built with SwiftUI
 
 
 🚀 Features
+
 ✅ Chat with Gemini 2.5 Flash using generateContent API
 🧠 Text + Multimodal Input (Images, Videos, PDFs, Text Files)
 ⚡️ Modern SwiftUI interface
